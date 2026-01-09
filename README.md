@@ -1,8 +1,8 @@
 # Transformer Implementation Hub
 
-A curated collection of Google Colab notebooks that implement modern Transformer architectures—from first principles to production-ready usage.
+A collection of Google Colab notebooks that implement modern Transformer architectures from first principles.
 
-This repository focuses on **understanding transformer internals**, **clean machine-learning engineering**, and **practical application** across NLP and vision tasks. Each notebook is designed to be executable, readable, and technically rigorous.
+This repository focuses on **understanding transformer internals**, **clean machine-learning engineering**, and **practical application** across NLP and vision tasks. Each notebook is designed to be executable, readable and technically rigorous.
 
 ---
 
