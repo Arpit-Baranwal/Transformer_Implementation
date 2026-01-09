@@ -31,7 +31,7 @@ All notebooks run **directly in Google Colab with zero setup**.
 
 ---
 
- ##Notebook-first reproducibility  
+ ## Notebook-first reproducibility  
   Every implementation runs end-to-end in a single Colab session.
 
 **How to Use**
